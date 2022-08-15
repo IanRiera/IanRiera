@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **IanRiera/IanRiera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,20 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=IanRiera&style=plastic)
+
+### Hi there 👋
+A little information about me:
+- 🔭 I’m currently working as a Computer Vision Engineer, developing software solutions for 3D reconstruction.
+- 🌱 I’m currently learning the best practices for software development, to make my code more readable and less lintable. I'm also diving into the CtCI.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianrierasmolinska/)
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanRiera&show_icons=true&theme=merko&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanRiera&show_icons=true&theme=great-gatsby&count_private=true" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IanRiera&theme=merko&date_format=j%20M%5B%20Y%5D" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IanRiera&theme=great-gatsby&date_format=j%20M%5B%20Y%5D" />
   </a>
 </div>
 
 <div align="center">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRiera&layout=compact&theme=merko" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRiera&layout=compact&theme=great-gatsby" />
     </a>
  </div>
 </div>
