@@ -36,7 +36,7 @@ A little information about me:
 <div align="center">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRiera&layout=compact&theme=great-gatsby" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRiera&layout=compact&theme=great-gatsby&count_private=true" />
     </a>
  </div>
 </div>
