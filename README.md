@@ -26,7 +26,7 @@ A little information about me:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanRiera&show_icons=true&theme=great-gatsby&count_private=true" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IanRiera&theme=great-gatsby&date_format=j%20M%5B%20Y%5D" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IanRiera&theme=great-gatsby&date_format=j%20M%5B%20Y%5D&count_private=true" />
   </a>
 </div>
 
