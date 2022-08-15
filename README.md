@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 A little information about me:
 - 🔭 I’m currently working as a Computer Vision Engineer, developing software solutions for 3D reconstruction.
 - 🌱 I’m currently learning the best practices for software development, to make my code more readable and less lintable. I'm also diving into the CtCI.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ian_Riera_Smolinska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianrierasmolinska/)
+- 📫 How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-Ian_Riera_Smolinska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianrierasmolinska/)
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
