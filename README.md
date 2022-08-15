@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanRiera&show_icons=true&theme=merko&count_private=true" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IanRiera&theme=merko&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</div>
+
+<div align="center">
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRiera&layout=compact&theme=merko" />
+    </a>
+ </div>
+</div>
