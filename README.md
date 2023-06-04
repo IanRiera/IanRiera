@@ -23,20 +23,3 @@ A little information about me:
 - 📫 How to reach me:
 
   [![Linkedin Badge](https://img.shields.io/badge/-Ian_Riera_Smolinska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianrierasmolinska/)
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=IanRiera&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true&hide=issues,contribs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IanRiera&show_icons=true&theme=great-gatsby&count_private=true&include_all_commits=true&hide=issues,contribs" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=IanRiera&theme=great-gatsby&date_format=j%20M%5B%20Y%5D&count_private=true">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IanRiera&theme=great-gatsby&date_format=j%20M%5B%20Y%5D&count_private=true&include_all_commits=true" />
-  </a>
-</div>
-
-<div align="center">
-  <div>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRiera&layout=compact&theme=great-gatsby&count_private=true">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRiera&layout=compact&theme=great-gatsby&count_private=true" />
-    </a>
- </div>
-</div>
