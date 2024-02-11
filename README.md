@@ -20,7 +20,8 @@ A little information about me:
 
 
 - 📫 How to reach me:
+  - [Check My Personal Website](https://ianriera.github.io)
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Ian_Riera_Smolinska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianrierasmolinska/)
+  - [![Linkedin Badge](https://img.shields.io/badge/-Ian_Riera_Smolinska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianrierasmolinska/)
   
   ![](https://komarev.com/ghpvc/?username=IanRiera&style=plastic)
