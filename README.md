@@ -20,6 +20,7 @@ A little information about me:
 
 
 - 📫 How to reach me:
+  [Check My Personal Website](ianriera.github.io)
 
   [![Linkedin Badge](https://img.shields.io/badge/-Ian_Riera_Smolinska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianrierasmolinska/)
   
